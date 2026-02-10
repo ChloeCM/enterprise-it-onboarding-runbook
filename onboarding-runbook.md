@@ -13,23 +13,25 @@ It focuses on access verification, basic issue identification, and clear escalat
 - A device has been issued or assigned
 - First-line IT does not assign application or SAP roles
 
-## Before Start Date vs Day 1 Responsibilities
+## Before Start Date vs First Day Responsibilities
 
-### HR
+### Before Start Date (HR and Managers)
 
-- Confirm start date, role, and location
-- Ensure onboarding request is submitted
+- Confirm employee start date, role, and location
+- Ensure onboarding and access requests are submitted
+- Confirm any role-specific system access requirements
 
-### IT (First-line)
+### First Day (IT – First Line)
 
-- Ensure device login works
-- Verify account access and basic systems
-- Identify missing access and escalate where required
+- Ensure the user can log into their device
+- Verify access to Microsoft 365 (email, Teams)
+- Confirm basic system and application access
+- Identify and document any missing access for escalation
 
 ### Line Manager
 
-- Confirm role-specific access requirements
-- Approve application and SAP access where applicable
+- Validate that the user has the correct access for their role
+- Approve or request additional application or SAP access if required
 
 ## First-Line IT Onboarding Checklist
 
